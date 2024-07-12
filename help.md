@@ -6,7 +6,7 @@ pros
 -------
 Scalability
 Flexibility
-Technology Diversity
+Technology Diversityś
 Team Autonomy
 
 cons
@@ -15,3 +15,7 @@ cons
 Complexity
 Data Management
 Operational Overhead
+
+docker compose command:-
+
+docker-compose up --build
